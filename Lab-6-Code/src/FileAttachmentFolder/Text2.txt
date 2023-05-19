@@ -1,0 +1,87 @@
+SE 461 - Software Testing and Quality
+Instructor: Yongjie Zheng (Email: yzheng@csusm.edu)
+Lecture Time: Monday/Wednesday/Friday 9:30AM - 10:20AM
+Lecture Room: Kellogg Library 1104
+Office Hour: Monday and Thursday 1PM - 2PM
+Office Hour Zoom (with Waiting Room): https://csusm.zoom.us/j/82055894946
+Prerequisite
+SE 451.
+Course Description
+Theory and practice of determining whether a product conforms to its specification and
+intended use. Topics include methods of testing, types of testing, verification and validation,
+software quality assurance methods, test plans and strategies, unit level and system level
+testing, software reliability, peer review methods, security-related quality assurance processes
+and techniques, and configuration control responsibilities in quality assurance.
+Topics and Tentative Schedule
+Testing Fundamentals (2 weeks)
+Motivation
+Fault, Error, and Failure
+Coverage Criteria
+Subsumption and Infeasibility
+Criteria-Based Test Design (8 weeks)
+Graph Coverage
+Logic Coverage
+Input Space Partitioning
+Syntax-Based Testing
+Midterm Review and Exam (1 week)
+Junit Testing Framework (2 weeks)
+Selenium Testing Framework (2 weeks)
+Project Final Presentation (1 week)
+Textbook
+Paul Ammann and Jeff Offutt. 2016. Introduction to Software Testing (2nd ed.). Cambridge
+University Press, New York, NY, USA.
+Grading
+Individual Assignments: 40%
+Group Project: 20%
+Midterm Exam: 20%
+Final Exam: 20%
+2
+Policy
+Late submission is NOT acceptable.
+Re-grading must be requested within one week after grades are released.
+The University Academic Honesty Policy applies.
+Student Learning Outcomes
+Students that successfully complete the course will be able to:
+1. Identify, analyze, and apply skills and professional standards in software verification and
+validation.
+a. Know verification and validation terminology and foundations for software (e.g.,
+planning the verification and validation effort, documenting verification and
+validation strategy, including tests and other artifacts, metrics and
+measurement, verification and validation involvement at different points in the
+life cycle, etc.)
+b. Know reviews and static analysis for software (e.g., peer reviews, static analysis,
+etc.)
+c. Know testing for software (e.g., coverage analysis and structure-based testing,
+black-box functional testing techniques, integration testing, quality analysis,
+developing test cases based on use cases and/or user stories, testing based on
+operational profiles, system and acceptance testing, testing across quality
+attributes, regression testing, testing tools and automation, user interface
+testing, usability testing, performance testing, etc.)
+d. Know problem analysis and reporting for software (e.g., analyzing failure reports,
+debugging and fault isolation techniques, defect analysis, problem tracking, etc.)
+2. Identify, analyze, and apply skills and professional standards in software quality.
+a. Know software quality concepts and culture (e.g., definitions of quality, society’s
+concern for quality, costs and impacts of bad quality, cost of quality model,
+quality attributes for software, roles of people, processes, methods, tools, and
+technology, etc.)
+b. Know process assurance (e.g., the nature of process assurance, quality planning,
+process assurance techniques, etc.)
+c. Know product assurance (e.g., the nature of product assurance, distinctions
+between assurance and verification and validation, quality product models, root
+cause analysis and defect prevention, quality product models, root cause
+analysis and defect prevention, quality product metrics and measurement,
+assessment of product quality attributes, etc.)
+3. Identify, analyze, and apply skills and professional standards in security issues.
+a. Know developing secure software (e.g., security-related verification and
+validation, etc.).
+University Writing Requirement
+CSUSM has established a 2500-word writing requirement for each course. To meet this
+requirement, each student will comment their programs, answer homework questions and
+answer exam questions.
+3
+Students with disabilities who require academic accommodations must be approved for
+services by providing appropriate and recent documentation to the Office of Disabled Student
+Services (DSS). This office is located in Craven Hall 4300 and can be contacted by phone at (760)
+750-4905, TDD (760) 750-4909 or by email at: dss@csusm.edu Students authorized by DSS to
+receive accommodations should meet with me during my office hours, or in another private
+setting, in order to ensure your confidentiality.

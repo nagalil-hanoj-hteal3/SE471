@@ -1,0 +1,44 @@
+Spring 2023
+SE471: Software Architecture
+Section 001 M W F 10:30 AM -- 11:20 PM Commons 206
+Instructor
+Dr. Simon Fan
+Professor of Computer Science and Software Engineering
+Office: VEP 6013
+Phone: 760-750-8216
+Email: sfan@csusm.edu
+Web: https://faculty.csusm.edu/sfan/
+Office hours
+M W 1:30 pm-2:30 pm (Office)
+Friday 9:30 am-10:30 am (ZOOM)
+Office Hour ZOOM: https://csusm.zoom.us/j/97495539024
+ZOOM ID: 974 9553 9024
+With Waiting room enabled: Be patient if another student is in.
+Course Description
+Introduces software architectural principles, UML model representations, and widely accepted
+design patterns in the software industry. Covers creational, partitioning, structural, and behavioral
+design patterns, as well as the SOLID principles. Learning these design patterns and principles
+will help students recognize the wide spectrum of software reuse techniques, justify design
+alternatives, and develop large-scale software systems more effectively. Provides experience in
+translating software designs into code and reverse-engineering code into designs.
+Prerequisite(s): SE 370: Introduction to Software Engineering
+Note: I assume that you have already mastered at least one object-oriented
+programming language. We will use Java as the programming language in learning
+design patterns. Therefore, you must budget your time to learn Java by yourself in case
+you do not have Java programming experience.
+
+---------------------------------------------------------
+
+How to Succeed in this course:
+This is a difficult and a heavily loaded course. I recommend each student apply the following steps in
+order to maximize your chances of success:
+1. Budget sufficient time for this course (at least 10 hours of out-of-class time per week, or 2 hours
+each day). This estimate is a guide; the time which you actually need will vary by topic and
+assignment.
+2. Schedule blocks of time every day to study the covered material (lecture notes and the relevant
+sections in the textbook).
+3. Many passages in the text may need to be read several times to gain clarity. Taking notes on the
+material you are learning in class will help you to understand the issues, concepts and techniques
+that are being presented.
+4. You need to finish one system design and one programming project every week. Work on project
+assignments as early as you can.
